@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/header.svg" width="100%" alt="Otoobong John, full-stack developer" />
+  <img src="assets/header.svg" width="100%" alt="Oto-obong John, full-stack developer" />
 </p>
 
 I build reliable web apps that simplify and modernize complex business workflows.
