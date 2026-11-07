@@ -1,1 +1,28 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 220" width="960" height="220"><rect width="960" height="220" rx="18" fill="#13213a"/><g font-family="system-ui,sans-serif" fill="#f2f6ff"><path d="M770 45l-50 65 50 65m90-130 50 65-50 65m-24-142-40 154" fill="none" stroke="#31476e" stroke-width="8" stroke-linecap="round"/><text x="48" y="63" fill="#9bdcff" font-size="24">FULL-STACK DEVELOPER</text><text x="45" y="149" font-size="72" font-weight="700">Otoobong John</text><path d="M48 178h92" stroke="#9bdcff" stroke-width="5"/></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="220" viewBox="0 0 960 220" role="img" aria-labelledby="title">
+  <title id="title">Oto-obong John · Full-stack developer</title>
+  <defs>
+    <linearGradient id="background" x1="0" x2="1" y1="0" y2="1">
+      <stop stop-color="#101a30"/>
+      <stop offset="1" stop-color="#15364a"/>
+    </linearGradient>
+    <pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse">
+      <path d="M24 0H0V24" fill="none" stroke="#86b1ca" stroke-opacity=".18"/>
+    </pattern>
+  </defs>
+  <rect width="960" height="220" rx="18" fill="url(#background)"/>
+  <g transform="translate(684 31)" aria-hidden="true">
+    <rect width="228" height="158" rx="12" fill="#0c1729" stroke="#497085"/>
+    <rect x="1" y="31" width="226" height="126" rx="11" fill="url(#grid)"/>
+    <path d="M0 31h228" stroke="#497085"/>
+    <g fill="#81d8ce">
+      <circle cx="17" cy="16" r="3"/>
+      <circle cx="30" cy="16" r="3" opacity=".65"/>
+      <circle cx="43" cy="16" r="3" opacity=".4"/>
+    </g>
+    <path d="M37 70l13 12-13 12m24 0h24m17-12h68m-68 24h46m-46 24h83" fill="none" stroke="#81d8ce" stroke-linecap="round" stroke-width="4"/>
+    <path d="M37 117h30m-30 14h18" stroke="#497085" stroke-linecap="round" stroke-width="4"/>
+  </g>
+  <text x="48" y="66" fill="#94e5da" font-family="monospace" font-size="25" font-weight="700" letter-spacing="1">FULL-STACK DEVELOPER</text>
+  <text x="45" y="143" fill="#f5f9ff" font-family="system-ui,sans-serif" font-size="72" font-weight="750">Oto-obong John</text>
+  <path d="M48 176h72" stroke="#94e5da" stroke-linecap="round" stroke-width="5"/>
+</svg>

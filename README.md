@@ -1,20 +1,16 @@
 <p align="center">
-  <img src="assets/header.svg" width="100%" alt="Oto-obong John, full-stack developer" />
+  <img src="assets/header.svg" width="100%" alt="Oto-obong John · Full-stack developer" />
 </p>
 
-I build reliable web apps that simplify and modernize complex business workflows.
+I build reliable web apps that turn complex business workflows into simpler tools people can use every day.
 
-### Featured projects
+**Core stack** · React · TypeScript · JavaScript · C# / .NET · Azure
 
-<p align="center">
-  <a href="https://github.com/Ibom1/tidy-folder"><img src="assets/tidy-folder.svg" width="48%" alt="tidy-folder — Scan and sort folders from the command line, with undo" /></a>
-  <a href="https://github.com/Ibom1/university-workshop-feedback-manager"><img src="assets/workshop-feedback.svg" width="48%" alt="University Workshop Feedback Manager — Manage feedback from university workshops with Python" /></a>
-</p>
+## Latest work
 
-### Tech stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,js,ts,dotnet,azure" alt="React, JavaScript, TypeScript, .NET, and Azure" />
-</p>
-
-<p align="center"><sub>React · JavaScript · TypeScript · .NET · Azure</sub></p>
+| Project | What it does |
+| --- | --- |
+| [**Lemoncheck**](https://github.com/Ibom1/lemoncheck)<br>React · TypeScript | Guides you through a used-car inspection, estimates repair costs, and helps you compare cars. [Try the live demo](https://lemoncheck-red.vercel.app/). |
+| [**Clutter Scan**](https://github.com/Ibom1/clutter-scan)<br>JavaScript · Node.js | Finds duplicate files and clutter. Preview a sort before applying it and undo the last sort if needed. |
+| [**Wrenchlog**](https://github.com/Ibom1/wrenchlog)<br>Python · SQLite | Logs car maintenance locally and shows which services are due based on time and mileage. |
+| [**Gittrail**](https://github.com/Ibom1/gittrail)<br>Python · Git | Summarizes repository history, shows which files change most often, and traces files across renames. |
