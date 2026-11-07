@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="460" height="208" viewBox="0 0 460 208" role="img" aria-labelledby="title">
+  <title id="title">Wrenchlog</title>
+  <defs>
+    <linearGradient id="panel" x2="1" y2="1">
+      <stop stop-color="#11162a"/>
+      <stop offset="1" stop-color="#512d39"/>
+    </linearGradient>
+    <linearGradient id="tile" x2="1" y2="1">
+      <stop stop-color="#ffc594"/>
+      <stop offset="1" stop-color="#b86652"/>
+    </linearGradient>
+  </defs>
+  <rect x="1" y="1" width="458" height="200" rx="20" fill="#090e1c"/>
+  <rect x="1" y="1" width="458" height="192" rx="20" fill="url(#panel)" stroke="#b86652"/>
+  <g font-family="system-ui, sans-serif">
+    <text x="23" y="38" fill="#ffc594" font-size="18" font-weight="700" letter-spacing=".8">PYTHON · SQLITE</text>
+    <text x="22" y="89" fill="#fbf9ff" font-size="42" font-weight="750">Wrenchlog</text>
+    <text x="23" y="127" fill="#d8deed" font-size="24">Track maintenance</text>
+    <text x="23" y="159" fill="#d8deed" font-size="24">See what is due</text>
+  </g>
+  <g transform="translate(317 56)">
+    <path d="M-4 63l53-30 73 39-54 31z" fill="#0a1020" opacity=".7"/>
+    <path d="M1 44l48-27 63 33-48 28z" fill="#b86652"/>
+    <path d="M1 44v18l63 34V78z" fill="#512d39" stroke="#b86652"/>
+    <path d="M64 78v18l48-27V50z" fill="#b86652"/>
+    <path d="M1 31L49 4l63 33-48 28z" fill="url(#tile)" stroke="#ffc594"/>
+    <path d="M9 18h38v25H9zm0 8h38m-28-14v10m18-10v10m-15 12 5 5 9-9" transform="matrix(1 .48 -1 .56 55 6)" fill="none" stroke="#111628" stroke-width="2.8" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+</svg>

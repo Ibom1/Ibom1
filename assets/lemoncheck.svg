@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="460" height="208" viewBox="0 0 460 208" role="img" aria-labelledby="title">
+  <title id="title">Lemoncheck</title>
+  <defs>
+    <linearGradient id="panel" x2="1" y2="1">
+      <stop stop-color="#11162a"/>
+      <stop offset="1" stop-color="#293624"/>
+    </linearGradient>
+    <linearGradient id="tile" x2="1" y2="1">
+      <stop stop-color="#d8f78f"/>
+      <stop offset="1" stop-color="#709043"/>
+    </linearGradient>
+  </defs>
+  <rect x="1" y="1" width="458" height="200" rx="20" fill="#090e1c"/>
+  <rect x="1" y="1" width="458" height="192" rx="20" fill="url(#panel)" stroke="#709043"/>
+  <g font-family="system-ui, sans-serif">
+    <text x="23" y="38" fill="#d8f78f" font-size="18" font-weight="700" letter-spacing=".8">REACT · TYPESCRIPT</text>
+    <text x="22" y="89" fill="#fbf9ff" font-size="42" font-weight="750">Lemoncheck</text>
+    <text x="23" y="127" fill="#d8deed" font-size="24">Inspect used cars</text>
+    <text x="23" y="159" fill="#d8deed" font-size="24">Compare repair estimates</text>
+  </g>
+  <g transform="translate(317 56)">
+    <path d="M-4 63l53-30 73 39-54 31z" fill="#0a1020" opacity=".7"/>
+    <path d="M1 44l48-27 63 33-48 28z" fill="#709043"/>
+    <path d="M1 44v18l63 34V78z" fill="#293624" stroke="#709043"/>
+    <path d="M64 78v18l48-27V50z" fill="#709043"/>
+    <path d="M1 31L49 4l63 33-48 28z" fill="url(#tile)" stroke="#d8f78f"/>
+    <path d="M8 29l5-13h27l8 13v10H8zm4 1h32m-30 9v4m28-4v4M16 33h4m18 0h4" transform="matrix(1 .48 -1 .56 55 6)" fill="none" stroke="#111628" stroke-width="2.8" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+</svg>

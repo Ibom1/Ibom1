@@ -1,16 +1,18 @@
 <p align="center">
-  <img src="assets/header.svg" width="100%" alt="Oto-obong John · Full-stack developer" />
+  <img src="assets/header.svg" width="100%" alt="Oto-obong John, full-stack developer" />
 </p>
 
-I build reliable web apps that turn complex business workflows into simpler tools people can use every day.
+I build web apps that make complex business workflows easier to manage.
 
 **Core stack** · React · TypeScript · JavaScript · C# / .NET · Azure
 
 ## Latest work
 
-| Project | What it does |
-| --- | --- |
-| [**Lemoncheck**](https://github.com/Ibom1/lemoncheck)<br>React · TypeScript | Guides you through a used-car inspection, estimates repair costs, and helps you compare cars. [Try the live demo](https://lemoncheck-red.vercel.app/). |
-| [**Clutter Scan**](https://github.com/Ibom1/clutter-scan)<br>JavaScript · Node.js | Finds duplicate files and clutter. Preview a sort before applying it and undo the last sort if needed. |
-| [**Wrenchlog**](https://github.com/Ibom1/wrenchlog)<br>Python · SQLite | Logs car maintenance locally and shows which services are due based on time and mileage. |
-| [**Gittrail**](https://github.com/Ibom1/gittrail)<br>Python · Git | Summarizes repository history, shows which files change most often, and traces files across renames. |
+<p align="center">
+  <a href="https://github.com/Ibom1/lemoncheck"><img src="assets/lemoncheck.svg" width="48%" alt="Lemoncheck · Guided used-car inspections and repair estimates · React and TypeScript" /></a>
+  <a href="https://github.com/Ibom1/clutter-scan"><img src="assets/clutter-scan.svg" width="48%" alt="Clutter Scan · Find duplicates, preview sorts, and undo moves · Node.js" /></a>
+  <a href="https://github.com/Ibom1/wrenchlog"><img src="assets/wrenchlog.svg" width="48%" alt="Wrenchlog · Track maintenance and see what's due · Python and SQLite" /></a>
+  <a href="https://github.com/Ibom1/gittrail"><img src="assets/gittrail.svg" width="48%" alt="Gittrail · Explore Git history and trace files across renames · Python and Git" /></a>
+</p>
+
+[Try Lemoncheck live](https://lemoncheck-red.vercel.app/) · [Browse all repositories](https://github.com/Ibom1?tab=repositories)
