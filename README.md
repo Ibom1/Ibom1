@@ -22,6 +22,6 @@
 
 ## About me
 
-I build tools for tasks that are easy to lose track of: inspecting a used car, organizing files, keeping up with maintenance, and finding where a file changed in Git.
+I’m Oto-obong John, a full-stack developer. I work on both the interface people use and the logic that makes it work. I’m drawn to problems where people have too many steps to keep track of. I like figuring out what the software can handle for them and how to make the next step clear.
 
 **Core stack:** React · TypeScript · JavaScript · C# / .NET · Azure
