@@ -1,38 +1,29 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="960" height="290" viewBox="0 0 960 290" role="img" aria-labelledby="title">
-  <title id="title">Oto-obong John, full-stack developer</title>
-  <defs>
-    <linearGradient id="bg" x2="1" y2="1">
-      <stop stop-color="#0f1230"/>
-      <stop offset="1" stop-color="#281758"/>
-    </linearGradient>
-    <linearGradient id="face" x2="1" y2="1">
-      <stop stop-color="#d0b9ff"/>
-      <stop offset="1" stop-color="#7156e9"/>
-    </linearGradient>
-    <pattern id="dots" width="22" height="22" patternUnits="userSpaceOnUse">
-      <circle cx="2" cy="2" r="1" fill="#c1b0fa" opacity=".34"/>
-    </pattern>
-  </defs>
-  <rect width="960" height="290" rx="23" fill="url(#bg)"/>
-  <rect x="1" y="1" width="958" height="288" rx="22" fill="none" stroke="#7053b3"/>
-  <path d="M584 18h346v255H584z" fill="url(#dots)"/>
-  <g font-family="system-ui, sans-serif">
-    <text x="48" y="83" font-size="23" font-weight="700" letter-spacing="3" fill="#cbb8ff">FULL-STACK DEVELOPER</text>
-    <text x="45" y="162" font-size="68" font-weight="750" fill="#faf7ff">Oto-obong John</text>
-    <path d="M49 202h90" stroke="#a987ff" stroke-width="5" stroke-linecap="round"/>
-  </g>
-  <g transform="translate(630 22)">
-    <path d="M-21 187l142-76 165 89-143 77z" fill="#080a1c" opacity=".56"/>
-    <path d="M0 166l117-61 144 76-117 62z" fill="#4a327e"/>
-    <path d="M0 166v16l144 78v-17z" fill="#30235e"/>
-    <path d="M144 243v17l117-63v-16z" fill="#6443ae"/>
-    <path d="M17 134l111-59 116 62-110 60z" fill="#8152cb"/>
-    <path d="M17 134v17l117 63v-17z" fill="#4d3082"/>
-    <path d="M134 197v17l110-60v-17z" fill="#6c48ac"/>
-    <path d="M39 103l96-51 93 49-95 52z" fill="url(#face)" stroke="#dfd1ff"/>
-    <path d="M39 103v24l94 50v-24z" fill="#7453cb"/>
-    <path d="M133 153v24l95-51v-25z" fill="#543593"/>
-    <path d="M109 86l-25 13 19 10m58-24 19 10-25 13m-23-29-12 32" fill="none" stroke="#221346" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
-    <path d="M186 20v24m-12-12h24M19 57v14m-7-7h14" stroke="#d2bfff" stroke-width="2" stroke-linecap="round"/>
-  </g>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="330" viewBox="0 0 960 330" role="img" aria-labelledby="title">
+    <title id="title">Oto-obong John, full-stack developer. Web apps that make complex workflows easier to manage.</title><defs>
+      <linearGradient id="panel" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#151f31"/><stop offset="1" stop-color="#0a1220"/></linearGradient>
+      <linearGradient id="rim" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#3a4c64"/><stop offset="1" stop-color="#1a283c"/></linearGradient>
+      <linearGradient id="face" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#e5fbff"/><stop offset=".56" stop-color="#94e6f1"/><stop offset="1" stop-color="#5f83a5"/></linearGradient>
+      <radialGradient id="glow"><stop stop-color="#94e6f1" stop-opacity=".19"/><stop offset="1" stop-color="#94e6f1" stop-opacity="0"/></radialGradient>
+      <pattern id="grid" width="16" height="16" patternUnits="userSpaceOnUse"><circle cx="1" cy="1" r=".75" fill="#a9c3dd" opacity=".27"/></pattern>
+    </defs><rect x="1" y="8" width="958" height="321" rx="20" fill="#080e19"/>
+    <rect x="1.5" y="1.5" width="957" height="319" rx="20" fill="url(#panel)" stroke="url(#rim)"/>
+    <rect x="537.6" y="12" width="384.0" height="302" fill="url(#grid)"/>
+    <ellipse cx="758.4000000000001" cy="155.1" rx="259.20000000000005" ry="168.3" fill="url(#glow)"/>
+    <path d="M 23 3 H 937" stroke="#bde4ff" stroke-opacity=".2"/><g transform="translate(0 -8)"><ellipse cx="741" cy="239" rx="155" ry="41" fill="#070b15" opacity=".68"/>
+<g fill="none" stroke="#91b8d9" stroke-opacity=".27"><path d="m569 234 167-83 177 88-167 82z"/><path d="m608 234 128-64 137 69-127 63z"/></g><polygon points="592,220.07 739,292.1 739,310.1 592,238.07" fill="#18253c"/><polygon points="739,292.1 882,222.03 882,240.03 739,310.1" fill="#304560"/><polygon points="735,150 882,222.03 739,292.1 592,220.07" fill="#273b58" stroke="#ffffff35" stroke-linejoin="round"/><polygon points="614,181.29 739,242.54 739,262.54 614,201.29" fill="#233956"/><polygon points="739,242.54 860,183.25 860,203.25 739,262.54" fill="#517291"/><polygon points="735,122 860,183.25 739,242.54 614,181.29" fill="#3a5874" stroke="#ffffff35" stroke-linejoin="round"/><polygon points="635,133 739,183.96 739,207.96 635,157" fill="#3d7390"/><polygon points="739,183.96 839,134.96 839,158.96 739,207.96" fill="#6baabe"/><polygon points="735,84 839,134.96 739,183.96 635,133" fill="url(#face)" stroke="#c7faff" stroke-linejoin="round"/><path d="m726 111-28 15 24 12m26-28 28 15-24 14m-4-28-19 31" stroke="#122c45" stroke-width="5.5" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+<path d="m644 211 45 22m75 7 50-25" stroke="#8ae3ef" stroke-opacity=".6" stroke-width="2" stroke-linecap="round"/>
+<path d="M832 69v23m-12-11h24M604 110v16m-8-8h16M887 149v14m-7-7h14" stroke="#a9eaf5" stroke-opacity=".78" stroke-width="1.5" stroke-linecap="round"/>
+<circle cx="865" cy="106" r="3" fill="#83e5f4"/><circle cx="626" cy="86" r="2.5" fill="#83e5f4" opacity=".6"/></g>
+<g font-family="system-ui, -apple-system, sans-serif">
+<rect x="47" y="60" width="236" height="32" rx="16" fill="#142d3c" stroke="#346276"/>
+<circle cx="64" cy="76" r="3.5" fill="#9decf8"/>
+<text x="76" y="81" fill="#bdeef7" font-size="13" font-weight="700" letter-spacing="1.4">FULL-STACK DEVELOPER</text>
+<g font-size="63" font-weight="760" letter-spacing="-2.5">
+<text x="45" y="173" fill="#080f1c" stroke="#080f1c" stroke-width="2">Oto-obong John</text>
+<text x="45" y="168" fill="#688ca7">Oto-obong John</text>
+<text x="45" y="163" fill="#f1f8ff">Oto-obong John</text>
+</g>
+<text x="48" y="210" fill="#b8cbe0" font-size="22">Web apps that make complex</text>
+<text x="48" y="241" fill="#b8cbe0" font-size="22">workflows easier to manage.</text>
+<path d="M48 274h49" stroke="#94e6f1" stroke-width="3" stroke-linecap="round"/>
+</g></svg>

@@ -1,29 +1,22 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="460" height="208" viewBox="0 0 460 208" role="img" aria-labelledby="title">
-  <title id="title">Lemoncheck</title>
-  <defs>
-    <linearGradient id="panel" x2="1" y2="1">
-      <stop stop-color="#11162a"/>
-      <stop offset="1" stop-color="#293624"/>
-    </linearGradient>
-    <linearGradient id="tile" x2="1" y2="1">
-      <stop stop-color="#d8f78f"/>
-      <stop offset="1" stop-color="#709043"/>
-    </linearGradient>
-  </defs>
-  <rect x="1" y="1" width="458" height="200" rx="20" fill="#090e1c"/>
-  <rect x="1" y="1" width="458" height="192" rx="20" fill="url(#panel)" stroke="#709043"/>
-  <g font-family="system-ui, sans-serif">
-    <text x="23" y="38" fill="#d8f78f" font-size="18" font-weight="700" letter-spacing=".8">REACT · TYPESCRIPT</text>
-    <text x="22" y="89" fill="#fbf9ff" font-size="42" font-weight="750">Lemoncheck</text>
-    <text x="23" y="127" fill="#d8deed" font-size="24">Inspect used cars</text>
-    <text x="23" y="159" fill="#d8deed" font-size="24">Compare repair estimates</text>
-  </g>
-  <g transform="translate(317 56)">
-    <path d="M-4 63l53-30 73 39-54 31z" fill="#0a1020" opacity=".7"/>
-    <path d="M1 44l48-27 63 33-48 28z" fill="#709043"/>
-    <path d="M1 44v18l63 34V78z" fill="#293624" stroke="#709043"/>
-    <path d="M64 78v18l48-27V50z" fill="#709043"/>
-    <path d="M1 31L49 4l63 33-48 28z" fill="url(#tile)" stroke="#d8f78f"/>
-    <path d="M8 29l5-13h27l8 13v10H8zm4 1h32m-30 9v4m28-4v4M16 33h4m18 0h4" transform="matrix(1 .48 -1 .56 55 6)" fill="none" stroke="#111628" stroke-width="2.8" stroke-linecap="round" stroke-linejoin="round"/>
-  </g>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="460" height="212" viewBox="0 0 460 212" role="img" aria-labelledby="title">
+    <title id="title">Lemoncheck: Guided used-car inspections and repair estimates. REACT / TYPESCRIPT.</title><defs>
+      <linearGradient id="panel" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#151f31"/><stop offset="1" stop-color="#0a1220"/></linearGradient>
+      <linearGradient id="rim" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#3a4c64"/><stop offset="1" stop-color="#1a283c"/></linearGradient>
+      <linearGradient id="face" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#e5fbff"/><stop offset=".56" stop-color="#d4f185"/><stop offset="1" stop-color="#5f83a5"/></linearGradient>
+      <radialGradient id="glow"><stop stop-color="#d4f185" stop-opacity=".19"/><stop offset="1" stop-color="#d4f185" stop-opacity="0"/></radialGradient>
+      <pattern id="grid" width="16" height="16" patternUnits="userSpaceOnUse"><circle cx="1" cy="1" r=".75" fill="#a9c3dd" opacity=".27"/></pattern>
+    </defs><rect x="1" y="8" width="458" height="203" rx="20" fill="#080e19"/>
+    <rect x="1.5" y="1.5" width="457" height="201" rx="20" fill="url(#panel)" stroke="url(#rim)"/>
+    <rect x="257.6" y="12" width="184.0" height="184" fill="url(#grid)"/>
+    <ellipse cx="363.40000000000003" cy="99.64" rx="105.80000000000001" ry="108.12" fill="url(#glow)"/>
+    <path d="M 23 3 H 437" stroke="#bde4ff" stroke-opacity=".2"/><ellipse cx="361" cy="149" rx="68" ry="21" fill="#070c16" opacity=".7"/>
+    <path d="m288 142 68-33 75 36-68 33z" fill="none" stroke="#b3d4ed" stroke-opacity=".32"/><polygon points="298,124.93 360,155.31 360,165.31 298,134.93" fill="#18273c"/><polygon points="360,155.31 417,127.38 417,137.38 360,165.31" fill="#344c64"/><polygon points="355,97 417,127.38 360,155.31 298,124.93" fill="#2d4056" stroke="#ffffff35" stroke-linejoin="round"/><polygon points="306,105.01 359,130.98 359,142.98 306,117.01" fill="#253951"/><polygon points="359,130.98 408,106.97 408,118.97 359,142.98" fill="#476580"/><polygon points="355,81 408,106.97 359,130.98 306,105.01" fill="#41607b" stroke="#ffffff35" stroke-linejoin="round"/><polygon points="314,83.09 357,104.16 357,117.16 314,96.09" fill="#4a6580"/><polygon points="357,104.16 398,84.07 398,97.07 357,117.16" fill="#62859e"/><polygon points="355,63 398,84.07 357,104.16 314,83.09" fill="url(#face)" stroke="#d4f185" stroke-linejoin="round"/><g transform="matrix(.73 .357 -.76 .372 349 65)" fill="none" stroke="#15243a" stroke-width="2.7" stroke-linecap="round" stroke-linejoin="round"><path d="M12 19h36l-4-11H20l-8 11v14h36V19m-36 7h36m-31 7v5m26-5v5m-23-15h4m12 0h4"/></g>
+    <path d="M408 50v16m-8-8h16M309 71v11m-5.5-5.5h11" stroke="#d4f185" stroke-opacity=".77" stroke-width="1.4" stroke-linecap="round"/>
+    <g font-family="system-ui, -apple-system, sans-serif">
+    <text x="25" y="38" fill="#d4f185" font-size="13" font-weight="750" letter-spacing="1.5">REACT / TYPESCRIPT</text>
+    <text x="24" y="83" fill="#f3f8ff" font-size="35" font-weight="750" letter-spacing="-.8">Lemoncheck</text>
+    <text x="25" y="118" fill="#bccde0" font-size="18">Guided used-car inspections</text>
+    <text x="25" y="144" fill="#bccde0" font-size="18">and repair estimates</text>
+    <text x="25" y="179" fill="#d4f185" font-size="12" font-weight="700" letter-spacing="1">VIEW PROJECT</text>
+    <path d="M137 175h14m-5-5 5 5-5 5" fill="none" stroke="#d4f185" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+    </g></svg>
