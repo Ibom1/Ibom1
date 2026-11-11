@@ -3,6 +3,8 @@
 </p>
 
 <p align="center">
+  <a href="https://otoobong-john-portfolio.vercel.app/">View my portfolio</a>
+  &nbsp;·&nbsp;
   <a href="https://lemoncheck-red.vercel.app/">Try Lemoncheck</a>
   &nbsp;·&nbsp;
   <a href="https://github.com/Ibom1?tab=repositories">Browse my repositories</a>
